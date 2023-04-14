@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sophie🌸</h1>
+<h1>🌸Hello🌸</h1>
 
 <p>🌱 i’m currently learning JavaScript.</p>
 <p>📫 how to reach me: sophie.e.gardner@hotmail.com</p>
