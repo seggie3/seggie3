@@ -1,13 +1,14 @@
 <h1>🌸Hello🌸</h1>
 
 <p>🌱 i’m currently learning JavaScript.</p>
+<p>👀 looking for opportunities as a developer
 <p>📫 how to reach me: sophie.e.gardner@hotmail.com</p>
 
 <h2>⚡ fun facts:</h2>
 <ul>
-  <li>😄 pronouns: she/her</li>
+  <li>👄 languages: 日本語 (JLPT N3)</li>
   <li>😋 favourite food: peanut butter</li>
-  <li>⛷️ hobbies: skiing, yoga, 日本語</li>
+  <li>⛷️ hobbies: skiing, yoga, consuming content</li>
 </ul> 
 
 <h2>💻 languages and tools:</h2>
