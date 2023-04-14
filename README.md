@@ -11,7 +11,12 @@
 </ul> 
 
 <h2>💻 languages and tools:</h2>
-
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode&theme=light"/>
+  </a>
+</p>
+</p>
 
 <h3 align="middle">connect with me</h3>
 <p align="middle">
